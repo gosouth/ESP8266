@@ -34,8 +34,8 @@
 
 #define MQTT_SERVER         "io.adafruit.com"
 #define MQTT_SERVERPORT     1883
-#define MQTT_USERNAME       "gosouth"
-#define MQTT_KEY            "a3662948b32248f99527893041625163"
+#define MQTT_USERNAME       "***"
+#define MQTT_KEY            "***"
 #define MQTT_FEED           "gosouth/feeds/"
 
 #define T_LUMINOSITY    "battery"
